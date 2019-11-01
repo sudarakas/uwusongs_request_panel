@@ -124,6 +124,11 @@
                 </div>
             </div>
         </div>
+        <div class="col-md-6">
+            <div class="copyright">
+                &copy; 2019 <a href="https://github.com/sudarakas" target="_blank">By sudarakas</a>.
+            </div>
+        </div>
     </footer>
     <!-- Core -->
     <script src="/assets/vendor/jquery/jquery.min.js"></script>
